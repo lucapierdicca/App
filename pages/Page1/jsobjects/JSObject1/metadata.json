@@ -1,0 +1,28 @@
+{
+  "gitSyncId": "67f3a965eaeec147fade8cc0_c5734e4e-a97c-4ee2-ba01-a84823fbb4fa",
+  "id": "Page1_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "table_prodotti_data",
+        "value": "[{\n  id: 0,\n  desc: \"sdfa\",\n  unit_price: 5,\n  stock: 3,\n  q: 0,\n  f: \"A\"\n}, {\n  id: 1,\n  desc: \"kjhdfg\",\n  unit_price: 10,\n  stock: 3,\n  q: 0,\n  f: \"B\"\n}, {\n  id: 2,\n  desc: \"uiotry\",\n  unit_price: 5,\n  stock: 1,\n  q: 0,\n  f: \"A\"\n}]"
+      },
+      {
+        "name": "table_carrello_data",
+        "value": "[]"
+      },
+      {
+        "name": "selected_products",
+        "value": "{}"
+      },
+      {
+        "name": "descrizione",
+        "value": "`<div>\n  <p><strong>Le foglie</strong> si distinguono principalmente in base alla forma e alla composizione.</p>\n  <p><strong>Foglie semplici:</strong> hanno una sola lamina fogliare, come quelle del melo.</p>\n  <p><strong>Foglie composte:</strong> sono divise in più foglioline, come quelle del trifoglio.</p>\n  <p><em>In base ai margini</em>, possono essere intere, dentate o lobate.</p>\n  <p><em>In base alla nervatura</em>, si classificano in penninervie, palmato-nervie o parallelinervie.</p>\n  <p><strong>Altre varianti</strong> includono foglie aghiformi (nelle conifere) e foglie squamiformi.</p>\n  <p><em>Ogni tipo ha adattamenti specifici</em> per luce, clima e habitat.</p>\n</div>`"
+      }
+    ]
+  }
+}

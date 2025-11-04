@@ -1,0 +1,86 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 87,
+  "boxShadow": "none",
+  "dynamicBindingPathList": [
+    {
+      "key": "menuColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "label"
+    },
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isCompact": false,
+  "isDisabled": "{{TableProdotti.selectedRows.length > 0 ? false : true}}",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "cnn2wypky1",
+  "label": "{{`Elabora selezione (${TableProdotti.selectedRows.length})`}}",
+  "leftColumn": 5,
+  "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+  "menuItems": {
+    "menuItem1": {
+      "id": "menuItem1",
+      "index": 0,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Chiudi",
+      "widgetId": ""
+    },
+    "menuItem2": {
+      "id": "menuItem2",
+      "index": 1,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Evadi",
+      "widgetId": ""
+    },
+    "menuItem3": {
+      "id": "menuItem3",
+      "index": 2,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Esporta",
+      "widgetId": ""
+    },
+    "menuItemhndex2vgq0": {
+      "id": "menuItemhndex2vgq0",
+      "index": 3,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Notifica",
+      "widgetId": "uwmrx0p24t"
+    }
+  },
+  "menuItemsSource": "STATIC",
+  "menuVariant": "PRIMARY",
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 19.8125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "renderMode": "CANVAS",
+  "rightColumn": 15,
+  "topRow": 83,
+  "type": "MENU_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "ugngckwo31",
+  "widgetName": "MenuButton1"
+}

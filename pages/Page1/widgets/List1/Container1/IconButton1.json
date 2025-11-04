@@ -1,0 +1,43 @@
+{
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 4,
+  "boxShadow": "none",
+  "buttonColor": "#ef4444",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "isVisible"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "isVisible"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "iconName": "error",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": "{{currentView.Input2.text >= currentItem.min_limit ? false : true}}",
+  "key": "8qnu5d41cr",
+  "leftColumn": 59,
+  "minWidth": 50,
+  "mobileBottomRow": 153,
+  "mobileLeftColumn": 14,
+  "mobileRightColumn": 18,
+  "mobileTopRow": 149,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 25.109375,
+  "parentId": "pmhc41ocge",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "topRow": 0,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "8am98lw9fa",
+  "widgetName": "IconButton1"
+}
