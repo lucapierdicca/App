@@ -5,7 +5,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM public.account LIMIT 20;\n\n-- Please enter a valid table name and hit RUN\n",
+      "body": "SELECT * FROM public.account LIMIT 10;\n\n-- Please enter a valid table name and hit RUN\n",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
