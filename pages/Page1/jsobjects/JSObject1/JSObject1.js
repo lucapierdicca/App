@@ -6,6 +6,8 @@ export default {
 		{id:2, desc:"uiotry", unit_price:5, stock:1, q:0, f:"A"},
 	],
 	
+	nuova_variabile_a_caso:[],
+	
 	table_carrello_data:[],
 	selected_products:{},
 
