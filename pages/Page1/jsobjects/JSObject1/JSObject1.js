@@ -5,8 +5,7 @@ export default {
 		{id:1, desc:"kjhdfg", unit_price:10, stock:3, q:0, f:"B"},
 		{id:2, desc:"uiotry", unit_price:5, stock:1, q:0, f:"A"},
 	],
-	
-	nuova_variabile_a_caso:[],
+
 	
 	table_carrello_data:[],
 	selected_products:{},
