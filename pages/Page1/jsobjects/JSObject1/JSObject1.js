@@ -11,7 +11,7 @@ export default {
 	selected_products:{},
 
 	descrizione: `<div>
-
+  <p><strong>Foglie inventata:</strong> hanno diverse lamine, come quelle del melo.</p>
   <p><strong>Foglie semplici:</strong> hanno una sola lamina fogliare, come quelle del melo.</p>
   <p><strong>Foglie composte:</strong> sono divise in più foglioline, come quelle del trifoglio.</p>
   <p><em>In base ai margini</em>, possono essere intere, dentate o lobate.</p>
