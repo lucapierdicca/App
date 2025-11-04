@@ -12,10 +12,6 @@
         "value": "[{\n  id: 0,\n  desc: \"sdfa\",\n  unit_price: 5,\n  stock: 3,\n  q: 0,\n  f: \"A\"\n}, {\n  id: 1,\n  desc: \"kjhdfg\",\n  unit_price: 10,\n  stock: 3,\n  q: 0,\n  f: \"B\"\n}, {\n  id: 2,\n  desc: \"uiotry\",\n  unit_price: 5,\n  stock: 1,\n  q: 0,\n  f: \"A\"\n}]"
       },
       {
-        "name": "nuova_variabile_a_caso",
-        "value": "[]"
-      },
-      {
         "name": "table_carrello_data",
         "value": "[]"
       },
