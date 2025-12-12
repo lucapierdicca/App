@@ -11,6 +11,7 @@ export default {
 	selected_products:{},
 
 	descrizione: `<div>
+	Una nuova foglia che ho aggiunto adesso
   <p><strong>Foglie inventata:</strong> hanno diverse lamine, come quelle del melo.</p>
   <p><strong>Foglie semplici:</strong> hanno una sola lamina fogliare, come quelle del melo.</p>
   <p><strong>Foglie composte:</strong> sono divise in più foglioline, come quelle del trifoglio.</p>
